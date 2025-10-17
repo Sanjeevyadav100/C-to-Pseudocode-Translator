@@ -134,7 +134,7 @@ If you'd like to contribute, please:
 
 ## License
 
-This project does not include a license file. Add a license if you intend to publish or share this code.
+This project does not include a license file.
 
 ## Contact
 
